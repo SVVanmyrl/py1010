@@ -4,7 +4,7 @@ Created on Wed Oct 16 20:48:58 2024
 
 Dette er løsning for arbeidskrav 1 i fag PY1010 ved USN
 
-@author: Ann Karin Halvorsen
+@author: Ann Karin Halvorsen - ann.karin.halvorsen@vegvesen.no
 """
 # Felles parametere for begge biler
 
